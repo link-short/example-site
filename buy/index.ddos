@@ -1,0 +1,6 @@
+<ddos-v2>
+  <source language="ddos" server=true server-name="ddos_server">
+      ddos_server.DDOSsendUrl: ddos_server.AddVariable(SendUrl, "https://link-short.github.io/ddos-v2/client/")
+      ddos_server.DDOSapi: ddos_server.AddVariable(API, "https://link-short.github.io/ddos-v2/client/api.json")
+  </source>
+</ddos-v2>
